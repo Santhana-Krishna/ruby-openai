@@ -4,7 +4,6 @@ PATH
     ruby-openai (6.0.0)
       event_stream_parser (>= 0.3.0, < 1.0.0)
       faraday (>= 0.9)
-      faraday-multipart (>= 1)
 
 GEM
   remote: https://rubygems.org/
